@@ -1,0 +1,200 @@
+body{
+    background-color: rgba(0,0,0,0);
+}
+li{
+    color:red;
+}
+
+.home{
+    color: red;
+    margin-left: 50%;
+}
+#tof1{
+    height: 300px;
+    width: 300px;
+}
+#tof2{
+    height: 300px;
+    width: 300px;
+    
+    
+}
+#tof3{
+    height: 300px;
+    width: 300px;
+}
+#tof4{
+    height: 300px;
+    width: 300px;
+}
+#tof5{
+    height: 300px;
+    width: 300px;
+}
+#tof6{
+    height: 300px;
+    width: 300px;
+}
+#tof7{
+    height: 300px;
+    width: 600px;
+}
+.tofs1{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.kk{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    color: white;
+    padding: 8px;
+}
+#text{
+   
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.tofclassique{
+    text-align: center;
+    justify-content: space-around;
+}
+#clas1{
+    height: 400px;
+    width: 400px;
+}
+#clas2{
+    height: 400px;
+    width: 400px;
+}
+.tofimmerge{
+    text-align: center;
+    justify-content: space-around;
+}
+#class1{
+    height: 400px;
+    width: 400px;
+}
+#class2{
+    height: 400px;
+    width: 400px;
+}
+#class3{
+    height: 400px;
+    width: 400px;
+}
+#class4{
+    height: 400px;
+    width: 400px;
+}
+#class5{
+    height: 400px;
+    width: 400px;
+}
+.tofpampes{
+    text-align: center;
+    justify-content: space-around;
+}
+#classs1{
+    height: 400px;
+    width: 400px;
+}
+#classs2{
+    height: 400px;
+    width: 400px;
+}
+#classs3{
+    height: 400px;
+    width: 400px;
+}
+.tofmoteur{
+    text-align: center;
+    justify-content: space-around;
+}
+#moteur1{
+    height: 400px;
+    width: 400px;
+}
+#moteur2{
+    height: 400px;
+    width: 400px;
+}
+#moteur3{
+    height: 400px;
+    width: 400px;
+}
+#moteur4{
+    height: 400px;
+    width: 400px;
+}
+#moteur5{
+    height: 400px;
+    width: 400px;
+}
+#moteur6{
+    height: 400px;
+    width: 400px;
+}
+#moteur7{
+    height: 400px;
+    width: 400px;
+}
+#moteur8{
+    height: 400px;
+    width: 400px;
+}
+#text1{
+    text-align: center;
+    justify-content: space-around;
+}
+.conta{
+    text-align: center;
+    justify-content: space-around;
+}
+.navbar{
+    
+    text-align: center;
+}
+#tofsss{
+    height: 6vh;
+}
+#ghirrbo3{
+    margin-left: 40%;
+    
+    
+
+}
+textarea{
+    background-color: darkgray;
+    border-radius: 2em;
+    
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
